@@ -1,0 +1,4 @@
+Order Placement Latency: 470 ms
+Market Data Processing Latency: 506 ms
+WebSocket Message Propagation Delay: 48 ms
+End-to-End Trading Loop Latency: 1005 ms
